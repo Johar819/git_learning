@@ -1,1 +1,2 @@
-# git_learning
+#Git Learning
+I am learning Git and its commands.
