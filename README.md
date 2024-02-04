@@ -1,3 +1,3 @@
 #Git Learning
-I am learning Git and its commands.
-Now there is a second change
+I am learning Git and its command
+This is final
